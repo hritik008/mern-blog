@@ -2,7 +2,6 @@ import {
   Avatar,
   Button,
   Dropdown,
-  DropdownHeader,
   Navbar,
   TextInput,
 } from 'flowbite-react';
